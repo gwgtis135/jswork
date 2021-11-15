@@ -4,9 +4,9 @@
 <html>
 <head>
 <meta charset="EUC-KR">
-<title>Insert title here</title>
+<title>hello</title>
 </head>
 <body>
- <h1>sdfsdfsdf</h1>
+ hello
 </body>
 </html>
