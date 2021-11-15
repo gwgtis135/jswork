@@ -4,9 +4,9 @@
 <html>
 <head>
 <meta charset="EUC-KR">
-<title>Insert title here</title>
+<title>hello</title>
 </head>
 <body>
- hello ~~~ clipse에서 수정 다시수정
+ hello ~~~ eclipse에서 수정 다시수정
 </body>
 </html>
