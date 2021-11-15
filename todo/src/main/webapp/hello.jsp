@@ -7,6 +7,6 @@
 <title>hello</title>
 </head>
 <body>
- hello
+ hello  cmd에서 수정 
 </body>
 </html>
